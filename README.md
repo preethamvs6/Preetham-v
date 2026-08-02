@@ -16,7 +16,6 @@
 
 # 👨‍💻 About Me
 
-🎓 Final Year Computer Science Engineering Student
 
 📍 Bangalore, India
 
@@ -163,20 +162,11 @@ Explore my:
 
 # 🚀 Featured Projects
 
-## 🌿 Plant Disease Detection System
-
-**Tech Stack**
-
-- Python
-- Flask
-- ResNet50
-- Deep Learning
-
-✔ Detects plant diseases using AI.
 
 ---
 
 ## 🏥 Hospital Management System
+https://github.com/preethamvs6/hospital-management-system.git
 
 **Tech Stack**
 
@@ -189,19 +179,8 @@ Explore my:
 
 ---
 
-## 🎓 Student Management System
-
-**Tech Stack**
-
-- Spring Boot
-- Spring Data JPA
-- MySQL
-
-✔ CRUD operations using REST APIs.
-
----
-
 ## 🛒 E-Commerce Backend
+https://github.com/preethamvs6/nexusTech.git
 
 **Tech Stack**
 
@@ -211,6 +190,22 @@ Explore my:
 - MySQL
 
 ✔ Backend services for an e-commerce platform.
+
+---
+## 💼 HirePulse
+
+🔗 **Repository:** https://github.com/preethamvs6/HirePulse
+
+**Tech Stack**
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- REST API
+- Maven
+- Postman
+
 
 ---
 
