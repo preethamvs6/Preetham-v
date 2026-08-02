@@ -27,8 +27,9 @@
 - Spring Boot
 - Microservices
 - REST APIs
-- React
 - MySQL
+- Devops tools
+- Cloud
 
 🚀 Interested in:
 
